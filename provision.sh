@@ -14,4 +14,4 @@ else
 	git clone https://github.com/puppetlabs/exercise-webpage.git
 fi
 
-cp -f exercise-webpage/index.html /usr/share/nginx/www/index.html
+cp -f exercise-webpage/index.html /usr/share/nginx/html/index.html
